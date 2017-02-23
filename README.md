@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 23, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Donna Sothen)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this lesson, I demonstrate the use of the javascript programming language. Unlike the last assignment, this assignment focuses more on utilizing conditional statements, loops, and functions.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://dcsothen.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how tax brackets are calculated.)
+2. (I also learned how to utilize nested if statements in the javascript language.)
+3. (I, addtionally, learned how the user interacts with the computer. The if/else statments allow the computer to anticipate any value the user types into the income box in order to calculate the tax bracket.)
